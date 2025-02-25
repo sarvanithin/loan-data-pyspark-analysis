@@ -40,14 +40,14 @@ This project performs the following analyses:
 ## Project Structure
 ```
 ├── README.md                       # Project overview and documentation
-├── notebooks/                      # Jupyter/Colab notebooks
-│   └── loan_performance_analysis.ipynb  # Main analysis notebook
-├── scripts/                        # Helper scripts
-│   ├── data_preprocessing.py       # Data cleaning and transformation
-│   └── visualization_helpers.py    # Custom visualization functions
-├── results/                        # Output visualizations and findings
 └── requirements.txt                # Project dependencies
 ```
+
+## Notebook Access
+The complete analysis is available as a Google Colab notebook:
+- [View and run the analysis notebook](https://colab.research.google.com/drive/17-yKqKNERstc9yArDg1O8zztylYfZ6ph?usp=sharing)
+
+For the best experience with the interactive elements, open the notebook in Google Colab using the link above.
 
 ## Setup and Execution
 1. **Data Access**:
